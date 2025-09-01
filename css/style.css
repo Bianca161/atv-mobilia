@@ -68,3 +68,11 @@ section.banner div.textos{
 section.produtos{
   padding: 5vw 10vw 5vw 10vw;
 }
+section.produtos ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+section.produtos ul li{
+  width: 30%;
+}
